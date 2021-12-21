@@ -5,16 +5,21 @@
 
 */
 
-package io.github.JalogTeam.JalogDemo;
+package jalog_demo.minimal_demo;
+
+import android.content.Context;
+import android.content.res.AssetManager;
+import android.view.View;
+//import android.widget.TextView;
+import android.widget.*;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.widget.TextView;
-import android.view.View;
-
-import io.github.JalogTeam.jalog.Jalog;
-import android.content.res.AssetManager;
-import androidx.appcompat.app.AppCompatActivity;
+//import java.io.IOException;
+//import java.io.InputStream;
 import java.io.*;
+import io.github.JalogTeam.jalog.Jalog;
 
 public class MainActivity extends AppCompatActivity {
 
