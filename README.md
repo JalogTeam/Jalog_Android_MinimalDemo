@@ -1,4 +1,3 @@
-![alt text](https://github.com/JalogTeam/Jalog_Android_MinimalDemo/raw/master/doc/MinimalDemo_screenshot.jpg "Screenshot")
 # Jalog_Android_MinimalDemo
 **Application (using Jalog logic) to demonstrate interfacing**
 1. Create Android Studio project
