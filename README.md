@@ -1,3 +1,4 @@
+![Screenshot](https://github.com/JalogTeam/Jalog_Android_MinimalDemo/blob/main/doc/MinimalDemo_screenshot.jpg?raw=true  "Screenshot")
 # Jalog_Android_MinimalDemo
 **Application (using Jalog logic) to demonstrate interfacing**
 1. Create Android Studio project
