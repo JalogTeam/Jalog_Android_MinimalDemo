@@ -24,13 +24,11 @@
     - confirm merging, if asked
 
 4 Build MinimalDemo
-
   * In Android Studio 
     - select Nexus S API 28 (tested with this)
     - Main menu > Build > Make Project
   
 5 Run 
-  
   * Run 
     - Should show text "MinimalDemo" near to the top of the display. The text "&lt;empty&gt;" and three buttons should be visible under the name.
   * Test behaviour by tapping buttons. 
